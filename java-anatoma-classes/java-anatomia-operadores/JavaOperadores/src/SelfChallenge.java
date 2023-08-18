@@ -8,9 +8,6 @@ public class SelfChallenge {
         double Media = Media(NumeroUm, NumeroDois, NumeroTres, NumeroQuatro);
 
         System.out.println("A média dos valores equivale a: " + Media);
-
-
-        
     }
 
 
