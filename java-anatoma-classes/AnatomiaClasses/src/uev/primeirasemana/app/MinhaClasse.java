@@ -1,6 +1,4 @@
-package uev.primeirasemana;
-
-
+package uev.primeirasemana.app;
 
 public class MinhaClasse {
     public static void main(String[] args) {
