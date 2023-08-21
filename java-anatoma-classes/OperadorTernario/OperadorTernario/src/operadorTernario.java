@@ -8,8 +8,8 @@ public class operadorTernario {
         // aprendendo operadores ternários
 
         String resultado = a == b ? "verdadeiro" : "falso";
-        
         System.out.println(resultado);
+        
         System.out.println("isto é um operador ternario em JAVA");
         String teste = a <= b ? "verdadeiro" : "falso";
         System.out.println(teste);
