@@ -20,7 +20,7 @@ public class operadorTernario {
             System.out.println("testando if ");
         }
         else{
-            System.out.println("falsinho'");
+            System.out.println("falsinho aqui q nunca acontecerá'");
         }
     }
 }
