@@ -11,7 +11,8 @@ public class MinhaClasse {
         String NomeCompleto = NomeCompleto(PrimeiroNome, SegundoNome);
 
         System.out.println(NomeCompleto);
-    }
+
+        
 
     // Aprendendo a usar métodos em Java
     public static String NomeCompleto(String PrimeiroNome, String SegundoNome){
