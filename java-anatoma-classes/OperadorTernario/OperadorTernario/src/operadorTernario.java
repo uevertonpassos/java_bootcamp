@@ -13,5 +13,14 @@ public class operadorTernario {
         System.out.println("isto é um operador ternario em JAVA");
         String teste = a <= b ? "verdadeiro" : "falso";
         System.out.println(teste);
+
+        // é assim que se faz um if em java 
+
+        if (a <= b && b >= a){
+            System.out.println("testando if ");
+        }
+        else{
+            System.out.println("falsinho'");
+        }
     }
 }
