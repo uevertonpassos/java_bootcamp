@@ -11,6 +11,7 @@ public class MinhaClasse {
         String NomeCompleto = NomeCompleto(PrimeiroNome, SegundoNome);
 
         System.out.println(NomeCompleto);
+        }
 
         
 
