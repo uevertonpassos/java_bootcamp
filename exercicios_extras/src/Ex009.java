@@ -24,6 +24,7 @@ public class Ex009 {
             
         }
        }
+       scanner.close();
 
 
 
