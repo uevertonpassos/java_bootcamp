@@ -23,4 +23,4 @@ public class operadorTernario {
             System.out.println("falsinho aqui q nunca acontecerá'");
         }
     }
-}//teste
+}
